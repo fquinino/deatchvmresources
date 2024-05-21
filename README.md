@@ -22,8 +22,8 @@ This repository contains a powerful and versatile Bash script designed to stream
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/azure-vm-resource-update.git
-   cd azure-vm-resource-update
+   git clone https://github.com/yourusername/azure-vm-resource-update.git](https://github.com/fquinino/deatchvmresources.git
+   cd deatchvmresources
 
 2. **Make the Script Executable**
    ```bash
